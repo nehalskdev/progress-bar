@@ -7,8 +7,9 @@ body {
   min-width: 400px;
   min-height: 100vh;
 
-  display: grid;
-  place-items: center;
+  display: flex;
+  align-items: center;
+  justify-self: center;
 
   background-color: #e0e4ed;
   font-family: "Times New Roman", Times, serif;
