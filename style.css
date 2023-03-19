@@ -30,7 +30,6 @@ body {
   border-radius: 21px;
 
   display: flex;
-  justify-content: flex-start;
   align-items: center;
 }
 .logo {
